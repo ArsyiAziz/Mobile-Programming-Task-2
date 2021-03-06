@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Task 2</string>
+    <string name="welcome_message">Welcome!</string>
+    <string name="article_btn">Article</string>
+    <string name="student_biodata_btn">Student Biodata</string>
+
+
+    <string name="title">Information Systems Student Biodata</string>
+
+    <string name="nim_title">Student ID Number</string>
+    <string name="nim">H071191003</string>
+
+    <string name="my_name_title">Name</string>
+    <string name="my_name">Arsyi Syarief Aziz</string>
+
+    <string name="pdob_title">Place and Date of Birth</string>
+    <string name="pdob">Makassar, 11 December 2001</string>
+
+    <string name="life_motto_title">Life Motto</string>
+    <string name="life_motto">When life goes right, go left</string>
+
+
+    <string name="article_title">NASA releases panorama taken by Mars rover</string>
+    <string name="article">The US space agency NASA released a spectacular panoramic view on Wednesday of the landing site of the  Perseverance rover on Mars.
+\n\nThe panorama shows the rim of the Jezero Crater where the rover touched down last week and the cliff face of an ancient river delta in the distance.
+\n\nIt was taken by rotating the rover\'s mast 360 degrees. The mast is equipped with dual, zoomable cameras which can take high-definition video and images.
+\n\nThe panorama is composed of 142 individual images stitched together on Earth, NASA said.
+\n\n"We\'re nestled right in a sweet spot, where you can see different features similar in many ways to features found by Spirit, Opportunity, and Curiosity at their landing sites," said Jim Bell of Arizona State University\'s School of Earth and Space Exploration.
+\n\nSpirit, Opportunity and Curiosity were previous missions to Mars.
+\n\nNASA said the rover\'s cameras will help scientists assess the geologic history and atmospheric conditions of Jezero Crater and identify rocks and sediment worthy of a closer examination and collection for eventual return to Earth.
+\n\nOn Monday, the US space agency released the first audio from Mars, a faint crackling recording of a gust of wind captured by the rover\'s microphone.
+\n\nNASA also released video of the landing of the rover, which is on a mission to search for signs of past life on the Red Planet.</string>
+    <string name="article_source">Source: The Jakarta Post </string>
+</resources>
