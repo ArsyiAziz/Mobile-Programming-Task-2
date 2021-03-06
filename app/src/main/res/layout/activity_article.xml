@@ -73,7 +73,7 @@
             android:layout_gravity="center"
             android:fontFamily="@font/poppins_regular"
             android:onClick="toMainActivity"
-            android:text="Back to homepage"/>
+            android:text="@string/homepage_btn"/>
         <Button
             android:layout_width="270dp"
             android:layout_height="wrap_content"
@@ -82,6 +82,6 @@
             android:layout_gravity="center"
             android:fontFamily="@font/poppins_regular"
             android:onClick="toBiodataActivity"
-            android:text="Student Biodata"/>
+            android:text="@string/student_biodata_btn"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

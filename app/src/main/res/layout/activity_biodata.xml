@@ -132,7 +132,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:fontFamily="@font/poppins_regular"
-            android:text="Back to Homepage"
+            android:text="@string/homepage_btn"
             android:onClick="toMainActivity"/>
         <Button
             android:textSize="16sp"
@@ -141,7 +141,7 @@
             android:layout_marginTop="10dp"
             android:layout_gravity="center"
             android:fontFamily="@font/poppins_regular"
-            android:text="Go to article"
+            android:text="@string/article_btn"
             android:onClick="toArticleActivity"/>
     </LinearLayout>
 
